@@ -55,3 +55,9 @@ ZTF(Element_ID).type(SET_INTERVAL_BLINKING);
 ```
 Any help improving this and adding more stuff is welcomed ! i'm still learning JS .
 ```
+
+## Contact me
+
+```
+you can contact me at ZTF666@protonmail.ch or via my portfolio <a href="https://ztfportfolio.web.app/"> 💎</a>
+```
