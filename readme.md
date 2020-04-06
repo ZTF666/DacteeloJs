@@ -59,5 +59,6 @@ Any help improving this and adding more stuff is welcomed ! i'm still learning J
 ## Contact me
 
 ```
-you can contact me at ZTF666@protonmail.ch or via my portfolio <a href="https://ztfportfolio.web.app/"> 💎</a>
+you can contact me at ZTF666@protonmail.ch or via my portfolio
+[Portfolio](https://ztfportfolio.web.app/) - 💎
 ```
