@@ -60,5 +60,6 @@ Any help improving this and adding more stuff is welcomed ! i'm still learning J
 
 ```
 you can contact me at ZTF666@protonmail.ch or via my portfolio
-[Portfolio](https://ztfportfolio.web.app/) - 💎
 ```
+
+[Portfolio](https://ztfportfolio.web.app/) - 💎
