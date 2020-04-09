@@ -27,7 +27,7 @@ ZTF(Element_ID).type(SET_INTERVAL_BLINKING);
   <p>The cursor won't appear by itself 🧙‍♂️, you should put it in a span or
   whatever tag you like as long as it's gonna be inline with the text. </p>
   <p>👉  |  👈</p>
-  <p>Or include the file i added , do as you please.</p>
+  <p>Copy this in you css tag or file Or include the file i added , do as you please.</p>
 </details>
 
 ```css
