@@ -57,7 +57,7 @@ ZTF(Element_ID).type(SET_INTERVAL_BLINKING);
 ## LIMITATIONS :
 
 ```
-So far you can onlytarget one element per call , bummer i know ...
+So far you can only target one element per call , bummer i know ...
 hopefully, as i expand my knowledge in js , i'll figure out a way to
 fix this issue 😫 .
 ```
