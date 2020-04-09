@@ -1,0 +1,11 @@
+.my-fancy-cursor {
+    color: rgb(6, 241, 25);
+    animation: blink 0.5s ease infinite;
+    opacity: 0;
+}
+
+@keyframes blink {
+    100% {
+        opacity: 1;
+    }
+}
