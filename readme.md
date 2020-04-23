@@ -9,7 +9,7 @@ A small 💩 library that gives your text that typewriter effect and makes it bl
 ```javascript
 ZTF(elementID).type(SET_SPEED_TYPING, SET_SPEED_DELETING);
 ```
-![Screenshot](demo/typing.gif)
+![Screenshot](demo/dact.gif)
 
 
 - **Blinking Effect**
