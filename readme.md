@@ -1,7 +1,7 @@
 # DacteeloJs
 
 <div align="center">
-<p>A small 💩 library that gives your text that typewriter effect and makes it blink too 😤</p>
+<p>A small library that gives your text that typewriter effect and makes it blink too 😤</p>
 
 </div>
 
